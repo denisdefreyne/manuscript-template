@@ -7,6 +7,7 @@ Generates properly formatted manuscript PDFs from a Markdown file.
 Preparation:
 
 1. Install Python 3 (e.g. `brew install python`)
+1. Install pandoc (e.g. `brew install pandoc`)
 
 To build:
 
