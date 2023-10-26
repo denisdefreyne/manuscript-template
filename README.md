@@ -1,5 +1,9 @@
 # Manuscript tool
 
+Generates properly formatted manuscript PDFs from a Markdown file.
+
+![Sample PDF](sample.png)
+
 Preparation:
 
 1. Install Python 3 (e.g. `brew install python`)
