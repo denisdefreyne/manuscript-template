@@ -28,6 +28,12 @@
         }
       }
 
+      @media print {
+        body {
+          font-size: 12pt;
+        }
+      }
+
       @page {
         size: A4;
         margin: 1in;
@@ -59,7 +65,7 @@
       li,
       hr {
         font-size: 12pt;
-        line-height: 2rem;
+        line-height: 2;
       }
 
       p {
@@ -91,6 +97,8 @@
         display: block;
         content: 'END';
         text-align: center;
+
+        font-size: 12pt;
         line-height: 2rem;
 
         margin-top: 2rem;
